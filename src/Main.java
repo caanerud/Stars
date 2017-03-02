@@ -3,6 +3,7 @@ import java.util.Scanner;
 /**
  * Created by chrisaanerud on 3/1/17.
  * Edited by James
+ * Edited by Forest
  */
 // This file creates stars in a really cool pattern!
 public class Main {
